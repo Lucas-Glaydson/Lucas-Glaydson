@@ -1,3 +1,4 @@
 👨‍💻Hi Everyone! i am Lucas Glaydson.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Lucas-Glaydson GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucas-Glaydson&show_icons=true&theme=radical&count_private=true)
+
