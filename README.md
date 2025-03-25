@@ -1,6 +1,6 @@
 # Hello everyone!
 
-### Backend developer
+### Full Stack developer
 
 I am currently a student at Jala university and am available for vacancies.
 
