@@ -45,11 +45,8 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lucas-Glaydson&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lucas-Glaydson&theme=radical" alt="GitHub Streak" />
+  <img src="https://github.com/Lucas-Glaydson/Lucas-Glaydson/blob/output/github-contribution-grid-snake.svg" alt="snake eating contributions" />
 </p>
-
 ---
 
 ### 📫 Let's Connect!
