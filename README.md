@@ -59,12 +59,5 @@
 
 ---
 
-### ✨ Featured Projects
-
-- 🎯 **PixPro** – AI-based image processing platform with a microservices architecture (React, Node/.NET, Kafka, Redis, WebSocket).
-- 💇 **Barber DIO** – Appointment scheduling API for barbershops using Spring Boot, PostgreSQL, and Docker.
-- 🛍️ **Qatu** – Online digital marketplace with buyer-seller logic, JWT auth and Firebase integration.
-
----
 
 <p align="center">Thanks for stopping by! ⭐️</p>
